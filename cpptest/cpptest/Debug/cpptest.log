@@ -1,0 +1,10 @@
+﻿  sparta.cpp
+e:\docs\github\cpptest\cpptest\cpptest\sparta.cpp(34): warning C4101: “kklast”: 未引用的局部变量
+e:\docs\github\cpptest\cpptest\cpptest\sparta.cpp(34): warning C4101: “kkfirst”: 未引用的局部变量
+  Universe.cpp
+  Output.cpp
+  Memory.cpp
+  Error.cpp
+  正在生成代码...
+  cpptest.vcxproj -> E:\Docs\GitHub\cpptest\cpptest\Debug\cpptest.exe
+  cpptest.vcxproj -> E:\Docs\GitHub\cpptest\cpptest\Debug\cpptest.pdb (Partial PDB)
